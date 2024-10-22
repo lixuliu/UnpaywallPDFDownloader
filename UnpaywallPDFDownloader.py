@@ -15,12 +15,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 api_email = "dsftliu@gmail.com"
 
 # Directory where you want to save the downloaded PDFs
-download_dir = "/Users/lixuliu/Desktop/Paper 2_Digital_Risk/Scopus/digital AND risk AND assessment/01"
+download_dir = "/Users/lixuliu/Desktop/Paper2/01" 
 if not os.path.exists(download_dir):
     os.makedirs(download_dir)
 
 # Path to your CSV file
-csv_file_path = "/Users/lixuliu/Desktop/Paper 2_Digital_Risk/Scopus/digital AND risk AND assessment/01.csv"
+csv_file_path = "/Users/lixuliu/Desktop/Paper2/scopus.csv" 
 
 # Load the CSV file containing the DOIs
 df = pd.read_csv(csv_file_path)
