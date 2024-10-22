@@ -12,7 +12,7 @@ import numpy as np
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Your email address for the Unpaywall API
-api_email = "dsftliu@gmail.com"
+api_email = "xxx@gmail.com"
 
 # Directory where you want to save the downloaded PDFs
 download_dir = "/Users/lixuliu/Desktop/Paper2/01" 
