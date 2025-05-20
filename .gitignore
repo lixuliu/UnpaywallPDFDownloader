@@ -24,8 +24,10 @@ wheels/
 *.log
 unpaywall_downloader.log
 
-# Downloaded PDFs
+# Downloaded PDFs and CSV files
 *.pdf
+rest_articles.csv
+failed_downloads.csv
 
 # Virtual Environment
 venv/
@@ -40,4 +42,9 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+# Ignore any CSV files that might contain DOIs (to protect user data)
+*.csv
+!requirements.txt 
