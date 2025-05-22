@@ -81,66 +81,9 @@ The script handles various error cases:
 
 All errors are logged with appropriate messages in the console.
 
-## License
-
-GNU GENERAL PUBLIC LICENSE  
-Version 2, June 1991  
-
-Copyright (c) 2024 Dr. Lixu Liu
-
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-
-## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-This program is free software; you can redistribute it and/or modify  
-it under the terms of the GNU General Public License as published by  
-the Free Software Foundation; either version 2 of the License, or  
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,  
-but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License  
-along with this program; if not, write to the Free Software  
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.  
-
----
-
-## GNU GENERAL PUBLIC LICENSE  
-Version 2, June 1991  
-
-Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA  
-Everyone is permitted to copy and distribute verbatim copies  
-of this license document, but changing it is not allowed.
-
-...
-
-[Omitted for brevity here — you should include the full GPL-2.0 license text in your actual file.]
-
-You can find the **complete text** of the GNU GPL v2.0 here:  
-https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
-
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-# NOTICE
-
-This software is licensed under the GNU General Public License v2.0 (GPLv2).
-
-The author, Dr. Lixu Liu, **welcomes copying, modification, and open collaboration**.
-
-However, please note:
-- This software is provided **for academic, educational, and non-commercial use**.
-- The author **does not permit** the code or its derivatives to be sold or commercially licensed.
-- Attribution must be given when using or adapting this code.
-- If you share a modified version, it must also be open source under the same GPLv2 license.
-
-This clarification reflects the author's intent to support open science while discouraging commercial exploitation.
 
 ## Citation
 
