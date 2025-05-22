@@ -1,39 +1,16 @@
-GNU GENERAL PUBLIC LICENSE  
-Version 2, June 1991  
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2024 Dr. Lixu Liu
+You are free to:
 
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
-## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+Under the following terms:
 
-This program is free software; you can redistribute it and/or modify  
-it under the terms of the GNU General Public License as published by  
-the Free Software Foundation; either version 2 of the License, or  
-(at your option) any later version.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-This program is distributed in the hope that it will be useful,  
-but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
-GNU General Public License for more details.
+No additional restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-You should have received a copy of the GNU General Public License  
-along with this program; if not, write to the Free Software  
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.  
+For details, see the full license at: https://creativecommons.org/licenses/by/4.0/
 
----
-
-## GNU GENERAL PUBLIC LICENSE  
-Version 2, June 1991  
-
-Copyright (C) 1989, 1991 Free Software Foundation, Inc.  
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA  
-Everyone is permitted to copy and distribute verbatim copies  
-of this license document, but changing it is not allowed.
-
-...
-
-[Omitted for brevity here — you should include the full GPL-2.0 license text in your actual file.]
-
-You can find the **complete text** of the GNU GPL v2.0 here:  
-https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+Copyright © 2025 Dr. Lixu Liu
