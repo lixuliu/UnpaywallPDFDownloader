@@ -155,8 +155,8 @@ Although commercial use is permitted by license, **the author discourages direct
 
 ### ❌ Please do not:
 
-- Sell or package the code or map “as-is”
-- Repost the ZIP or map as a paid download
+- Sell or package the code “as-is”
+- Repost the ZIP as a paid download
 - Remove author attribution from outputs
 
 For major commercial use or partnership discussions, please contact: lixu@verdemetrix.com
