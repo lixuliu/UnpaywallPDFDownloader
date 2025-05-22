@@ -1,13 +1,13 @@
 # NOTICE
 
-This software is licensed under the GNU General Public License v2.0 (GPLv2).
+This software is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-The author, Dr. Lixu Liu, **welcomes copying, modification, and open collaboration**.
+The author, Dr. Lixu Liu, welcomes copying, modification, integration, and collaboration.
 
-However, please note:
-- This software is provided **for academic, educational, and non-commercial use**.
-- The author **does not permit** the code or its derivatives to be sold or commercially licensed.
-- Attribution must be given when using or adapting this code.
-- If you share a modified version, it must also be open source under the same GPLv2 license.
+This software is made available for both academic and commercial use, with the following expectations:
 
-This clarification reflects the author's intent to support open science while discouraging commercial exploitation.
+- **Attribution is required** in all public uses or integrations.
+- **Direct resale or redistribution of the code or outputs without modification or added value is discouraged.**
+- Modified versions should clearly indicate they differ from the original.
+
+To acknowledge or notify the author, please contact: lixu@verdemetrix.com
