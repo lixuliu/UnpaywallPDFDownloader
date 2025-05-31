@@ -1,0 +1,42 @@
+Title: UnpaywallPDFDownloader
+Author: Lixu Liu
+Institution: University of Birmingham
+Date: 2024
+Version: 1.0.0
+License: MIT License
+Repository: https://github.com/lixuliu/UnpaywallPDFDownloader
+
+Description:
+UnpaywallPDFDownloader is a Python script that automates the process of downloading open-access research articles in PDF format using DOIs (Digital Object Identifiers) retrieved from a CSV file. The script utilizes the Unpaywall API to check the availability of open-access versions of the articles and downloads them to a specified directory.
+
+Key Features:
+- DOI-based PDF fetching using Unpaywall API
+- Progress tracking with visual progress bar
+- Error handling and logging
+- Sound notification upon completion
+- CSV logging for failed downloads
+
+Technical Requirements:
+- Python 3.6 or higher
+- Required packages: pandas, requests, tqdm, librosa, sounddevice, numpy
+
+Usage:
+1. Prepare a CSV file with a 'DOI' column (can be exported from Scopus or Web of Science)
+2. Configure the script with your email and file paths
+3. Run the script to download PDFs
+
+Files Included:
+- UnpaywallPDFDownloader.py: Main script
+- README.md: Documentation and usage instructions
+- requirements.txt: Required Python packages
+- LICENSE: MIT License
+- .gitignore: Git ignore rules
+
+Citation:
+@software{UnpaywallPDFDownloader,
+  author = {Liu, Lixu},
+  title = {UnpaywallPDFDownloader},
+  year = {2024},
+  url = {https://github.com/lixuliu/UnpaywallPDFDownloader},
+  doi = {https://doi.org/10.25500/edata.bham.00001292}
+} 
