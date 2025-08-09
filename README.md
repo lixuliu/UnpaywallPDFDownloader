@@ -8,6 +8,22 @@ A Python script that automates the process of downloading open-access research a
 
 For a user-friendly web interface that doesn't require Python installation, visit the online version of this tool. Simply upload your CSV file with DOIs and download the PDFs directly from your browser.
 
+## Support This Project
+
+If you find this tool useful for your research or work, please consider supporting its continued development and maintenance:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu)
+
+Your support helps:
+
+- 🔧 Maintain and improve the codebase
+- 🐛 Fix bugs and add new features
+- 📚 Keep documentation up-to-date
+- 🌐 Maintain the web interface
+- ⚡ Ensure compatibility with latest APIs
+
+Even small contributions make a big difference in keeping this project alive and useful for the research community!
+
 ## Features
 
 - DOI-based PDF fetching: Automatically fetches and downloads PDFs using the Unpaywall API
