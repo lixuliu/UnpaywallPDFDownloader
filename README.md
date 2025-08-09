@@ -2,6 +2,12 @@
 
 A Python script that automates the process of downloading open-access research articles in PDF format using DOIs (Digital Object Identifiers) retrieved from a CSV file. The script utilizes the Unpaywall API to check the availability of open-access versions of the articles and downloads them to a specified directory.
 
+## Web Interface
+
+**🌐 Try the online version:** [OpenAccess PDF Downloader](https://www.openaccesspdfdownloader.verdemetrix.com)
+
+For a user-friendly web interface that doesn't require Python installation, visit the online version of this tool. Simply upload your CSV file with DOIs and download the PDFs directly from your browser.
+
 ## Features
 
 - DOI-based PDF fetching: Automatically fetches and downloads PDFs using the Unpaywall API
