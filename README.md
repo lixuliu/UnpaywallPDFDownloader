@@ -2,24 +2,24 @@
 
 A Python script that automates the process of downloading open-access research articles in PDF format using DOIs (Digital Object Identifiers) retrieved from a CSV file. The script utilizes the Unpaywall API to check the availability of open-access versions of the articles and downloads them to a specified directory.
 
-## Web Interface
+## Web Application
 
 **🌐 Try the online version:** [OpenAccess PDF Downloader](https://www.openaccesspdfdownloader.verdemetrix.com)
 
-For a user-friendly web interface that doesn't require Python installation, visit the online version of this tool. Simply upload your CSV file with DOIs and download the PDFs directly from your browser.
+For a user-friendly web application that doesn't require Python installation, visit the online version of this tool. Simply upload your CSV file with DOIs and download the PDFs directly from your browser.
 
 ## Support This Project
 
-If you find this tool useful for your research or work, please consider supporting its continued development and maintenance:
+This project is available both as a **web application** at [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com) and as open-source code for local use. If you find this tool useful for your research or work, please consider supporting its continued development and maintenance:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
-Your support helps:
+Your donations help support:
 
-- 🔧 Maintain and improve the codebase
-- 🐛 Fix bugs and add new features
+- 🌐 **Web application maintenance** - Server costs, updates, and reliability
+- 💻 **Local app interface development** - New features and improvements for the desktop version
+- 🔧 Ongoing development and bug fixes for both platforms
 - 📚 Keep documentation up-to-date
-- 🌐 Maintain the web interface
 - ⚡ Ensure compatibility with latest APIs
 
 Even small contributions make a big difference in keeping this project alive and useful for the research community!
@@ -184,4 +184,4 @@ Although commercial use is permitted by license, **the author discourages direct
 - Repost the ZIP as a paid download
 - Remove author attribution from outputs
 
-For major commercial use or partnership discussions, please contact: lixu@verdemetrix.com
+For major commercial use or partnership discussions, please contact: info@verdemetrix.com
