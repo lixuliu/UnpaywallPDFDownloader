@@ -1,8 +1,8 @@
 # UnpaywallPDFDownloader
 
-**🌍 Multi-language Support / 多语言支持 / Soporte Multiidioma / Support Multilingue / 多言語サポート / Многоязычная поддержка**
+**🌍 Multi-language Support / 多语言支持 / Soporte Multiidioma / Support Multilingue / 多言語サポート / Многоязычная поддержка / Supporto Multilingue**
 
-- [English](README_en.md) - [中文](README_zh.md) - [Español](README_es.md) - [Français](README_fr.md) - [日本語](README_ja.md) - [Русский](README_ru.md)
+- [English](README_en.md) - [中文](README_zh.md) - [Español](README_es.md) - [Français](README_fr.md) - [日本語](README_ja.md) - [Русский](README_ru.md) - [Italiano](README_it.md)
 
 ---
 
