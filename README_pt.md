@@ -12,7 +12,7 @@ Para uma aplicação web amigável que não requer instalação do Python, visit
 
 Este projeto está disponível tanto como uma **aplicação web** em [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com) quanto como código de código aberto para uso local. Se você achar esta ferramenta útil para sua pesquisa ou trabalho, por favor considere apoiar seu desenvolvimento e manutenção contínuos:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![Patrocinador](https://img.shields.io/badge/Patrocinador-GitHub%20Patrocinadores-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Compre%20um%20café-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
 Suas doações ajudam a apoiar:
 

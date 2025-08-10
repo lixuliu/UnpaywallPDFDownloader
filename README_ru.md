@@ -12,7 +12,7 @@ Python-скрипт, который автоматизирует процесс 
 
 Этот проект доступен как **веб-приложение** на [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com) и как открытый исходный код для локального использования. Если вы считаете этот инструмент полезным для ваших исследований или работы, пожалуйста, рассмотрите возможность поддержки его дальнейшего развития и обслуживания:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Спонсоры-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Угостите%20меня%20кофе-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![Спонсор](https://img.shields.io/badge/Спонсор-GitHub%20Спонсоры-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Угостите%20меня%20кофе-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
 Ваша поддержка помогает поддерживать проект:
 

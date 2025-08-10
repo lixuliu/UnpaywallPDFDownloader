@@ -12,7 +12,7 @@ Python 설치가 필요 없는 사용자 친화적인 웹 애플리케이션을 
 
 이 프로젝트는 [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com)의 **웹 애플리케이션**과 로컬 사용을 위한 오픈소스 코드로 모두 제공됩니다. 연구나 업무에 이 도구가 유용하다고 생각되시면 지속적인 개발과 유지보수를 지원해 주시기 바랍니다:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![스폰서](https://img.shields.io/badge/스폰서-GitHub%20스폰서-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-커피%20한%20잔%20사주세요-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
 기부금은 다음을 지원합니다:
 
