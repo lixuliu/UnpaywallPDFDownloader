@@ -14,15 +14,15 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
-您的捐赠有助于支持：
+您的支持有助于维持项目发展：
 
-- 🌐 **Web 应用程序维护** - 服务器成本、更新和可靠性
+- 🌐 **Web 应用程序维护** - 服务器成本、更新和稳定性
 - 💻 **本地应用程序界面开发** - 桌面版本的新功能和改进
-- 🔧 两个平台的持续开发和错误修复
-- 📚 保持文档最新
+- 🔧 两个平台的持续开发和问题修复
+- 📚 保持文档最新状态
 - ⚡ 确保与最新 API 的兼容性
 
-即使小额贡献也能在保持此项目活力并为研究社区提供有用服务方面产生重大影响！
+每一份支持都对保持此项目活力并为研究社区提供优质服务具有重要意义！
 
 ## 功能特点
 

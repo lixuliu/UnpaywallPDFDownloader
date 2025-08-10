@@ -14,15 +14,15 @@ Este proyecto está disponible tanto como **aplicación web** en [openaccesspdfd
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
-Tus donaciones ayudan a apoyar:
+Tu apoyo ayuda a mantener el proyecto:
 
-- 🌐 **Mantenimiento de la aplicación web** - Costos del servidor, actualizaciones y confiabilidad
+- 🌐 **Mantenimiento de la aplicación web** - Costos del servidor, actualizaciones y estabilidad
 - 💻 **Desarrollo de la interfaz de la aplicación local** - Nuevas características y mejoras para la versión de escritorio
-- 🔧 Desarrollo continuo y corrección de errores para ambas plataformas
+- 🔧 Desarrollo continuo y corrección de problemas para ambas plataformas
 - 📚 Mantener la documentación actualizada
 - ⚡ Asegurar compatibilidad con las últimas APIs
 
-¡Incluso las pequeñas contribuciones hacen una gran diferencia en mantener este proyecto vivo y útil para la comunidad de investigación!
+¡Cada contribución es valiosa para mantener este proyecto activo y útil para la comunidad de investigación!
 
 ## Características
 
