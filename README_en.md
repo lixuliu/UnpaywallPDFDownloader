@@ -1,11 +1,5 @@
 # UnpaywallPDFDownloader
 
-**🌍 Multi-language Support / 多语言支持 / Soporte Multiidioma / Support Multilingue / 多言語サポート / Многоязычная поддержка**
-
-- [English](README_en.md) - [中文](README_zh.md) - [Español](README_es.md) - [Français](README_fr.md) - [日本語](README_ja.md) - [Русский](README_ru.md)
-
----
-
 A Python script that automates the process of downloading open-access research articles in PDF format using DOIs (Digital Object Identifiers) retrieved from a CSV file. The script utilizes the Unpaywall API to check the availability of open-access versions of the articles and downloads them to a specified directory.
 
 ## Web Application
@@ -191,3 +185,7 @@ Although commercial use is permitted by license, **the author discourages direct
 - Remove author attribution from outputs
 
 For major commercial use or partnership discussions, please contact: info@verdemetrix.com
+
+---
+
+**🌍 [Back to Language Selection / 返回语言选择 / Volver a Selección de Idioma / Retour à la Sélection de Langue](README.md)**
