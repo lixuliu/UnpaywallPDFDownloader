@@ -1,9 +1,5 @@
 # UnpaywallPDFDownloader
 
-- 🇺🇸 [English](README_en.md) - 🇨🇳 [中文](README_zh.md) - 🇪🇸 [Español](README_es.md) - 🇫🇷 [Français](README_fr.md) - 🇯🇵 [日本語](README_ja.md) - 🇷🇺 [Русский](README_ru.md) - 🇮🇹 [Italiano](README_it.md) - 🇩🇪 [Deutsch](README_de.md) - 🇵🇹 [Português](README_pt.md)
-
----
-
 Um script Python que automatiza o processo de download de artigos de pesquisa de acesso aberto em formato PDF usando DOIs (Identificadores de Objetos Digitais) recuperados de um arquivo CSV. O script utiliza a API Unpaywall para verificar a disponibilidade de versões de acesso aberto dos artigos e os baixa para um diretório especificado.
 
 ## Aplicação Web
