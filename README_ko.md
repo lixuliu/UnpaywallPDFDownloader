@@ -1,9 +1,5 @@
 # UnpaywallPDFDownloader
 
-- 🇺🇸 [English](README_en.md) - 🇨🇳 [中文](README_zh.md) - 🇪🇸 [Español](README_es.md) - 🇫🇷 [Français](README_fr.md) - 🇯🇵 [日本語](README_ja.md) - 🇷🇺 [Русский](README_ru.md) - 🇮🇹 [Italiano](README_it.md) - 🇩🇪 [Deutsch](README_de.md) - 🇵🇹 [Português](README_pt.md) - 🇰🇷 [한국어](README_ko.md)
-
----
-
 CSV 파일에서 검색된 DOI(디지털 객체 식별자)를 사용하여 오픈 액세스 연구 논문을 PDF 형식으로 다운로드하는 과정을 자동화하는 Python 스크립트입니다. 이 스크립트는 Unpaywall API를 사용하여 논문의 오픈 액세스 버전 가용성을 확인하고 지정된 디렉토리에 다운로드합니다.
 
 ## 웹 애플리케이션
