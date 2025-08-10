@@ -12,7 +12,7 @@
 
 هذا المشروع متاح كـ **تطبيق شبكي** على [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com) وكود مفتوح المصدر للاستخدام المحلي. إذا وجدت هذه الأداة مفيدة لبحثك أو عملك، يرجى النظر في دعم تطويرها وصيانتها المستمرة:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![راعي](https://img.shields.io/badge/راعي-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-اشتر%20لي%20قهوة-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
 تساعد تبرعاتك في دعم:
 
