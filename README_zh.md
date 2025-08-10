@@ -12,7 +12,7 @@
 
 此项目既可作为[openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com)的**Web 应用程序**使用，也可作为本地使用的开源代码。如果您发现此工具对您的研究或工作有用，请考虑支持其持续开发和维护：
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
+[![赞助者](https://img.shields.io/badge/赞助者-GitHub%20赞助者-ff69b4?logo=github)](https://github.com/sponsors/lixuliu) [![Ko-fi](https://img.shields.io/badge/Ko--fi-请我喝咖啡-ff5f5f?logo=ko-fi)](https://ko-fi.com/lixuliu)
 
 您的支持有助于维持项目发展：
 
