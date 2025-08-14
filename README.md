@@ -12,6 +12,10 @@ A Python script that automates the process of downloading open-access research a
 
 For a user-friendly web application that doesn't require Python installation, visit the online version of this tool. Simply upload your CSV file with DOIs and download the PDFs directly from your browser.
 
+![UnpaywallPDFDownloader Web Application](image.png)
+
+_Screenshot of the UnpaywallPDFDownloader web application interface_
+
 ## Support This Project
 
 This project is available both as a **web application** at [openaccesspdfdownloader.verdemetrix.com](https://www.openaccesspdfdownloader.verdemetrix.com) and as open-source code for local use. If you find this tool useful for your research or work, please consider supporting its continued development and maintenance:
